@@ -1,4 +1,4 @@
-module github.com/SkarpKat/gRPCExcercies.git
+module grpcExercise
 
 go 1.21.1
 
